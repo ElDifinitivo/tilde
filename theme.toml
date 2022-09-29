@@ -1,0 +1,17 @@
+name = "tilde"
+description = "Simple theme to match the dracula tilde css"
+license = "GPLv3"
+homepage = "https://git.sr.ht/~savoy/tilde"
+min_version = "0.4.0"
+demo = "https://savoy.srht.site/blog-demo"
+
+[extra]
+homepage = ""
+subtitle = ""
+git_source = ""
+author = ""
+email = ""
+
+[author]
+name = "savoy"
+homepage = "https://tilde.team/~savoy/"
